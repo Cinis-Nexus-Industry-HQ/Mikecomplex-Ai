@@ -1,5 +1,5 @@
 ---
-name: ❓ Question / Support
+name: "❓ Question / Support"
 about: Ask a question or get support
 title: "[QUESTION] "
 labels: question

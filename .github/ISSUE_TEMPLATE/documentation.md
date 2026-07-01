@@ -1,5 +1,5 @@
 ---
-name: 📚 Documentation
+name: "\U0001F4DA Documentation"
 about: Report missing or unclear documentation
 title: "[DOCS] "
 labels: documentation
